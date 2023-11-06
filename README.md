@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## Usage
-(![Project]())
+(![Project](<passwordgenerator .png>))
 
 ## Credits
 
